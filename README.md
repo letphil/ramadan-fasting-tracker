@@ -13,3 +13,7 @@ be able to favorite restaurants
 
 - html / css / js
 - bootstrap
+
+### steps
+
+    - search bar by city name to use geocode api to get coordinates
